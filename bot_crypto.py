@@ -79,7 +79,7 @@ def Banner():
             print("Lỗi kết nối! Kiểm tra internet và nhập lại.")'''
 
 #Banner()
-TOKEN_API_BOT = "THAY API BOT"
+TOKEN_API_BOT = "THAY_API_BOT"
 URL_API_BINANCE= 'https://api.binance.com/api/v3'
 bot = telebot.TeleBot(TOKEN_API_BOT)
 matplotlib.use('Agg') 
