@@ -79,7 +79,7 @@ def nhap_api_bot():
             print("Lỗi kết nối! Kiểm tra internet và nhập lại.")
 
 Banner()
-TOKEN_API_BOT = nhap_api_bot  
+TOKEN_API_BOT = nhap_api_bot()
 URL_API_BINANCE= 'https://api.binance.com/api/v3'
 bot = telebot.TeleBot(TOKEN_API_BOT)
 matplotlib.use('Agg') 
