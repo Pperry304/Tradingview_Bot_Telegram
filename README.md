@@ -3,6 +3,8 @@
 ## Giới thiệu
 Bot Telegram này hỗ trợ người dùng lấy dữ liệu nến lịch sử từ TradingView, vẽ biểu đồ nến và hiển thị các chỉ báo kỹ thuật như MA, EMA, Bollinger Bands, SAR, và AVL. 
 
+## Link bài viết: https://www.facebook.com/share/p/19QhtaXqWa/
+
 ## Chức năng
 - Lấy dữ liệu nến lịch sử của một cặp tiền điện tử hoặc tài sản tài chính.
 - Vẽ biểu đồ nến kèm các chỉ báo kỹ thuật.
