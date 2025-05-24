@@ -1,5 +1,5 @@
 # ! py
-# Bot c_tradingview 
+# Bot C_TradingView
 # Copyright by NTC
 
 import os, http.client, sys
